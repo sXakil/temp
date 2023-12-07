@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkapprentices_nft=self.webpackChunkapprentices_nft||[]).push([[883],{429:function(e,n,t){t.r(n),t.d(n,{default:function(){return r}});var u=t(7294);function r(){return u.createElement("div",null,"404")}}}]);
+//# sourceMappingURL=component---src-pages-404-js-29000a147af59e7b6170.js.map

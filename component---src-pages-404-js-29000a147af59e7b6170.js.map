@@ -1,0 +1,1 @@
+{"version":3,"file":"component---src-pages-404-js-29000a147af59e7b6170.js","mappings":"iLAEe,SAASA,IACtB,OAAOC,EAAAA,cAAA,WAAK,MACd,C","sources":["webpack://apprentices-nft/./src/pages/404.js"],"sourcesContent":["import React from \"react\"\n\nexport default function PageNotFound() {\n  return <div>404</div>\n}\n"],"names":["PageNotFound","React"],"sourceRoot":""}
